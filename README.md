@@ -4,7 +4,7 @@
 
 ##HW V
 
-Sequential that counts links in nodes
+Sequential that counts links in nodes[mapredCount.java](/mapredCount.java)
 
 MapReduce that counts links in nodes
 
