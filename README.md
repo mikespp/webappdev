@@ -3,9 +3,13 @@
 ##HW III
 
 ##HW V
+
 Sequential that counts links in nodes
+
 MapReduce that counts links in nodes
+
 Sequential that finds neighbor nodes
+
 MapReduce that finds neighbor nodes
 
 ##HW VI
