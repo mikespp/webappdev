@@ -13,5 +13,7 @@ Sequential that finds neighbor nodes [seqNeighbor.java](/seqNeighbor.java) [25.2
 MapReduce that finds neighbor nodes [mapredNeighbor.java](/mapredNeighbor.java) [323.5 sec]
 
 ##HW VI
-Pig that counts links in nodes
-Pig that finds neighbor nodes
+
+Pig that counts links in nodes [pigCount.pig](/pigCount.pig)
+
+Pig that finds neighbor nodes [pigNeighbor.pig](/pigNeighbor.pig)
