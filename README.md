@@ -6,9 +6,9 @@
 
 ##HW V
 
-Sequential that counts links in nodes [seqCount.java](/seqCount.java) [5.25 sec]
+Sequential that counts links connected to nodes [seqCount.java](/seqCount.java) [5.25 sec]
 
-MapReduce that counts links in nodes [mapredCount.java](/mapredCount.java) [22.22 sec]
+MapReduce that counts links connected to nodes [mapredCount.java](/mapredCount.java) [22.22 sec]
 
 Sequential that finds neighbor nodes [seqNeighbor.java](/seqNeighbor.java) [25.22 sec]
 
@@ -18,4 +18,4 @@ MapReduce that finds neighbor nodes [mapredNeighbor.java](/mapredNeighbor.java) 
 
 Pig that counts links in nodes [pigCount.pig](/pigCount.pig)
 
-Pig that finds neighbor nodes [pigNeighbor.pig](/pigNeighbor.pig)
+Pig that finds neighbor nodes
